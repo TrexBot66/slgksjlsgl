@@ -131,4 +131,4 @@ client.on("messageCreate", async(message) => {
 
 })
 
-client.login("OTM5MjY0NDY4ODI1ODIxMjk0.Yf2UNA.aerZPEQAc_wBLcmQQY3H4MyjnK8")
+client.login("")
